@@ -1,4 +1,11 @@
 # Javascript-Fullstack-CRUD
 
-### npm run dev:api to start the backend api
-### npm run server:frontend 
+### Para iniciar el backend API:
+```bash
+npm run dev:api
+```
+
+### Frontend:
+```bash
+npm run server:frontend 
+```
